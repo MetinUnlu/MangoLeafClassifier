@@ -53,6 +53,8 @@ cover/
 
 # Data Files
 data/
+test/
+logs/
 
 # Translations
 *.mo
@@ -167,3 +169,4 @@ cython_debug/
 model/Xception-MangoDiseaseClassifier.h5
 model/efficientnetb3-MangoDiseaseClassifier.h5
 model/Xception-MangoDiseaseClassifier.h5
+model/Xception-MangoDiseaseClassifier-weights.h5
